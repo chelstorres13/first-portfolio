@@ -1,0 +1,63 @@
+{
+box-sizing: border-box; /_ Newer CSS3 setting _/
+}
+
+body{
+  background-color:#D5D9D3;
+}
+
+header {
+  text-align:center;
+  color:#2D3142;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+  font-size:48px;
+}
+
+header > p {
+  font-size: 24px;
+}
+
+.orange-box {
+  background-color:#BC6C25;
+  color:#D5D9D3;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:center;
+  margin: 50px 40px;
+  padding: 10px;
+}
+
+h3 {
+  color:#0B7A75;
+  text-align:left;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+/*I want almost all of the paragraphs to be styled the same for consistency. */
+
+main > p, li {
+  color:#2D3142;
+  text-align:left;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+footer > p {
+  background-color:#2D3142;
+  color:#D5D9D3;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align:center;
+  font-size: 12px;
+  height: 20px;
+  margin: auto;
+  padding: 10px;
+}
+
+/* Going to make my links change color depending on click */
+
+
+a:link    { color:#2D3142;  }
+a:visited { color:#BC6C25;   }
+a:hover   { color:#0B7A75 }
+a:active  { color:#CE796B;  }
