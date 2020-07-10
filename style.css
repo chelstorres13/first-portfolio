@@ -61,3 +61,9 @@ a:link    { color:#2D3142;  }
 a:visited { color:#BC6C25;   }
 a:hover   { color:#0B7A75 }
 a:active  { color:#CE796B;  }
+
+/* want to make my images responsive by adding code below */
+
+img {
+  width:100%;
+}
