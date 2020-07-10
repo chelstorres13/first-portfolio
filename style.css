@@ -3,7 +3,7 @@ box-sizing: border-box; /_ Newer CSS3 setting _/
 }
 
 body{
-  background-color:#D5D9D3;
+  background-color:#F5F6F4;
 }
 
 header {
@@ -22,7 +22,7 @@ header > p {
 
 .orange-box {
   background-color:#BC6C25;
-  color:#D5D9D3;
+  color:#F5F6F4;
   font-family:Arial, Helvetica, sans-serif;
   text-align:center;
   margin: 50px 40px;
@@ -45,7 +45,7 @@ main > p, li {
 
 footer > p {
   background-color:#2D3142;
-  color:#D5D9D3;
+  color:#F5F6F4;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align:center;
   font-size: 12px;
